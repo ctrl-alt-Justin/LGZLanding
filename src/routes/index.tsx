@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import heroBg from "@/assets/hero-bg.jpg";
-import logoImg from "@/assets/logo.svg";
+import logoImg from "@/assets/logo.png";
 import {
   Infinity as InfinityIcon,
   TrendingUp,
